@@ -1,0 +1,1339 @@
+age,sex,bmi,children,smoker,region,charges,insuranceclaim
+19,Female,27.9,Zero,Yes,Region_4,16884.924,1
+18,Male,33.77,One,No,Region_3,1725.5523,1
+28,Male,33,Three,No,Region_3,4449.462,0
+33,Male,22.705,Zero,No, Region_2,21984.47061,0
+32,Male,28.88,Zero,No, Region_2,3866.8552,1
+31,Female,25.74,Zero,No,Region_3,3756.6216,0
+46,Female,33.44,One,No,Region_3,8240.5896,1
+37,Female,27.74,Three,No, Region_2,7281.5056,0
+37,Male,29.83,Two,No,Region_1,6406.4107,0
+60,Female,25.84,Zero,No, Region_2,28923.13692,0
+25,Male,26.22,Zero,No,Region_1,2721.3208,1
+62,Female,26.29,Zero,Yes,Region_3,27808.7251,1
+23,Male,34.4,Zero,No,Region_4,1826.843,1
+56,Female,39.82,Zero,No,Region_3,11090.7178,1
+27,Male,42.13,Zero,Yes,Region_3,39611.7577,1
+19,Male,24.6,One,No,Region_4,1837.237,0
+52,Female,30.78,One,No,Region_1,10797.3362,1
+23,Male,23.845,Zero,No,Region_1,2395.17155,0
+56,Male,40.3,Zero,No,Region_4,10602.385,1
+30,Male,35.3,Zero,Yes,Region_4,36837.467,1
+60,Female,36.005,Zero,No,Region_1,13228.84695,1
+30,Female,32.4,One,No,Region_4,4149.736,1
+18,Male,34.1,Zero,No,Region_3,1137.011,1
+34,Female,31.92,One,Yes,Region_1,37701.8768,1
+37,Male,28.025,Two,No, Region_2,6203.90175,0
+59,Female,27.72,Three,No,Region_3,14001.1338,1
+63,Female,23.085,Zero,No,Region_1,14451.83515,0
+55,Female,32.775,Two,No, Region_2,12268.63225,0
+23,Male,17.385,One,No, Region_2,2775.19215,1
+31,Male,36.3,Two,Yes,Region_4,38711,1
+22,Male,35.6,Zero,Yes,Region_4,35585.576,1
+18,Female,26.315,Zero,No,Region_1,2198.18985,1
+19,Female,28.6,Five,No,Region_4,4687.797,0
+63,Male,28.31,Zero,No, Region_2,13770.0979,1
+28,Male,36.4,One,Yes,Region_4,51194.55914,1
+19,Male,20.425,Zero,No, Region_2,1625.43375,0
+62,Female,32.965,Three,No, Region_2,15612.19335,0
+26,Male,20.8,Zero,No,Region_4,2302.3,0
+35,Male,36.67,One,Yes,Region_1,39774.2763,1
+60,Male,39.9,Zero,Yes,Region_4,48173.361,1
+24,Female,26.6,Zero,No,Region_1,3046.062,1
+31,Female,36.63,Two,No,Region_3,4949.7587,0
+41,Male,21.78,One,No,Region_3,6272.4772,0
+37,Female,30.8,Two,No,Region_3,6313.759,0
+38,Male,37.05,One,No,Region_1,6079.6715,0
+55,Male,37.3,Zero,No,Region_4,20630.28351,1
+18,Female,38.665,Two,No,Region_1,3393.35635,0
+28,Female,34.77,Zero,No, Region_2,3556.9223,1
+60,Female,24.53,Zero,No,Region_3,12629.8967,0
+36,Male,35.2,One,Yes,Region_3,38709.176,1
+18,Female,35.625,Zero,No,Region_1,2211.13075,1
+21,Female,33.63,Two,No, Region_2,3579.8287,0
+48,Male,28,One,Yes,Region_4,23568.272,1
+36,Male,34.43,Zero,Yes,Region_3,37742.5757,1
+40,Female,28.69,Three,No, Region_2,8059.6791,0
+58,Male,36.955,Two,Yes, Region_2,47496.49445,1
+58,Female,31.825,Two,No,Region_1,13607.36875,0
+18,Male,31.68,Two,Yes,Region_3,34303.1672,1
+53,Female,22.88,One,Yes,Region_3,23244.7902,1
+34,Female,37.335,Two,No, Region_2,5989.52365,0
+43,Male,27.36,Three,No,Region_1,8606.2174,1
+25,Male,33.66,Four,No,Region_3,4504.6624,0
+64,Male,24.7,One,No, Region_2,30166.61817,0
+28,Female,25.935,One,No, Region_2,4133.64165,0
+20,Female,22.42,Zero,Yes, Region_2,14711.7438,1
+19,Female,28.9,Zero,No,Region_4,1743.214,1
+61,Female,39.1,Two,No,Region_4,14235.072,1
+40,Male,26.315,One,No, Region_2,6389.37785,0
+40,Female,36.19,Zero,No,Region_3,5920.1041,1
+28,Male,23.98,Three,Yes,Region_3,17663.1442,0
+27,Female,24.75,Zero,Yes,Region_3,16577.7795,1
+31,Male,28.5,Five,No,Region_1,6799.458,0
+53,Female,28.1,Three,No,Region_4,11741.726,1
+58,Male,32.01,One,No,Region_3,11946.6259,1
+44,Male,27.4,Two,No,Region_4,7726.854,1
+57,Male,34.01,Zero,No, Region_2,11356.6609,1
+29,Female,29.59,One,No,Region_3,3947.4131,0
+21,Male,35.53,Zero,No,Region_3,1532.4697,1
+22,Female,39.805,Zero,No,Region_1,2755.02095,1
+41,Female,32.965,Zero,No, Region_2,6571.02435,1
+31,Male,26.885,One,No,Region_1,4441.21315,0
+45,Female,38.285,Zero,No,Region_1,7935.29115,1
+22,Male,37.62,One,Yes,Region_3,37165.1638,1
+48,Female,41.23,Four,No, Region_2,11033.6617,0
+37,Female,34.8,Two,Yes,Region_4,39836.519,1
+45,Male,22.895,Two,Yes, Region_2,21098.55405,1
+57,Female,31.16,Zero,Yes, Region_2,43578.9394,1
+56,Female,27.2,Zero,No,Region_4,11073.176,1
+46,Female,27.74,Zero,No, Region_2,8026.6666,1
+55,Female,26.98,Zero,No, Region_2,11082.5772,1
+21,Female,39.49,Zero,No,Region_3,2026.9741,1
+53,Female,24.795,One,No, Region_2,10942.13205,0
+59,Male,29.83,Three,Yes,Region_1,30184.9367,1
+35,Male,34.77,Two,No, Region_2,5729.0053,0
+64,Female,31.3,Two,Yes,Region_4,47291.055,1
+28,Female,37.62,One,No,Region_3,3766.8838,0
+54,Female,30.8,Three,No,Region_4,12105.32,0
+55,Male,38.28,Zero,No,Region_3,10226.2842,1
+56,Male,19.95,Zero,Yes,Region_1,22412.6485,1
+38,Male,19.3,Zero,Yes,Region_4,15820.699,1
+41,Female,31.6,Zero,No,Region_4,6186.127,1
+30,Male,25.46,Zero,No,Region_1,3645.0894,0
+18,Female,30.115,Zero,No,Region_1,21344.8467,1
+61,Female,29.92,Three,Yes,Region_3,30942.1918,1
+34,Female,27.5,One,No,Region_4,5003.853,0
+20,Male,28.025,One,Yes, Region_2,17560.37975,1
+19,Female,28.4,One,No,Region_4,2331.519,0
+26,Male,30.875,Two,No, Region_2,3877.30425,0
+29,Male,27.94,Zero,No,Region_3,2867.1196,1
+63,Male,35.09,Zero,Yes,Region_3,47055.5321,1
+54,Male,33.63,One,No, Region_2,10825.2537,1
+55,Female,29.7,Two,No,Region_4,11881.358,1
+37,Male,30.8,Zero,No,Region_4,4646.759,1
+21,Female,35.72,Zero,No, Region_2,2404.7338,1
+52,Male,32.205,Three,No,Region_1,11488.31695,0
+60,Male,28.595,Zero,No,Region_1,30259.99556,1
+58,Male,49.06,Zero,No,Region_3,11381.3254,1
+29,Female,27.94,One,Yes,Region_3,19107.7796,1
+49,Female,27.17,Zero,No,Region_3,8601.3293,1
+37,Female,23.37,Two,No, Region_2,6686.4313,0
+44,Male,37.1,Two,No,Region_4,7740.337,1
+18,Male,23.75,Zero,No,Region_1,1705.6245,0
+20,Female,28.975,Zero,No, Region_2,2257.47525,1
+44,Male,31.35,One,Yes,Region_1,39556.4945,1
+47,Female,33.915,Three,No, Region_2,10115.00885,0
+26,Female,28.785,Zero,No,Region_1,3385.39915,1
+19,Female,28.3,Zero,Yes,Region_4,17081.08,1
+52,Female,37.4,Zero,No,Region_4,9634.538,1
+32,Female,17.765,Two,Yes, Region_2,32734.1863,0
+38,Male,34.7,Two,No,Region_4,6082.405,0
+59,Female,26.505,Zero,No,Region_1,12815.44495,1
+61,Female,22.04,Zero,No,Region_1,13616.3586,0
+53,Female,35.9,Two,No,Region_4,11163.568,1
+19,Male,25.555,Zero,No, Region_2,1632.56445,0
+20,Female,28.785,Zero,No,Region_1,2457.21115,1
+22,Female,28.05,Zero,No,Region_3,2155.6815,1
+19,Male,34.1,Zero,No,Region_4,1261.442,1
+22,Male,25.175,Zero,No, Region_2,2045.68525,0
+54,Female,31.9,Three,No,Region_3,27322.73386,0
+22,Female,36,Zero,No,Region_4,2166.732,1
+34,Male,22.42,Two,No,Region_1,27375.90478,0
+26,Male,32.49,One,No,Region_1,3490.5491,1
+34,Male,25.3,Two,Yes,Region_3,18972.495,0
+29,Male,29.735,Two,No, Region_2,18157.876,0
+30,Male,28.69,Three,Yes, Region_2,20745.9891,0
+29,Female,38.83,Three,No,Region_3,5138.2567,0
+46,Male,30.495,Three,Yes, Region_2,40720.55105,1
+51,Female,37.73,One,No,Region_3,9877.6077,1
+53,Female,37.43,One,No, Region_2,10959.6947,1
+19,Male,28.4,One,No,Region_4,1842.519,0
+35,Male,24.13,One,No, Region_2,5125.2157,0
+48,Male,29.7,Zero,No,Region_3,7789.635,1
+32,Female,37.145,Three,No,Region_1,6334.34355,0
+42,Female,23.37,Zero,Yes,Region_1,19964.7463,1
+40,Female,25.46,One,No,Region_1,7077.1894,0
+44,Male,39.52,Zero,No, Region_2,6948.7008,1
+48,Male,24.42,Zero,Yes,Region_3,21223.6758,1
+18,Male,25.175,Zero,Yes,Region_1,15518.18025,1
+30,Male,35.53,Zero,Yes,Region_3,36950.2567,1
+50,Female,27.83,Three,No,Region_3,19749.38338,1
+42,Female,26.6,Zero,Yes, Region_2,21348.706,1
+18,Female,36.85,Zero,Yes,Region_3,36149.4835,1
+54,Male,39.6,One,No,Region_4,10450.552,1
+32,Female,29.8,Two,No,Region_4,5152.134,0
+37,Male,29.64,Zero,No, Region_2,5028.1466,1
+47,Male,28.215,Four,No,Region_1,10407.08585,1
+20,Female,37,Five,No,Region_4,4830.63,0
+32,Female,33.155,Three,No, Region_2,6128.79745,0
+19,Female,31.825,One,No, Region_2,2719.27975,1
+27,Male,18.905,Three,No,Region_1,4827.90495,0
+63,Male,41.47,Zero,No,Region_3,13405.3903,1
+49,Male,30.3,Zero,No,Region_4,8116.68,1
+18,Male,15.96,Zero,No,Region_1,1694.7964,1
+35,Female,34.8,One,No,Region_4,5246.047,1
+24,Female,33.345,Zero,No, Region_2,2855.43755,1
+63,Female,37.7,Zero,Yes,Region_4,48824.45,1
+38,Male,27.835,Two,No, Region_2,6455.86265,0
+54,Male,29.2,One,No,Region_4,10436.096,0
+46,Female,28.9,Two,No,Region_4,8823.279,1
+41,Female,33.155,Three,No,Region_1,8538.28845,0
+58,Male,28.595,Zero,No, Region_2,11735.87905,1
+18,Female,38.28,Zero,No,Region_3,1631.8212,1
+22,Male,19.95,Three,No,Region_1,4005.4225,0
+44,Female,26.41,Zero,No, Region_2,7419.4779,1
+44,Male,30.69,Two,No,Region_3,7731.4271,0
+36,Male,41.895,Three,Yes,Region_1,43753.33705,1
+26,Female,29.92,Two,No,Region_3,3981.9768,0
+30,Female,30.9,Three,No,Region_4,5325.651,0
+41,Female,32.2,One,No,Region_4,6775.961,1
+29,Female,32.11,Two,No, Region_2,4922.9159,0
+61,Male,31.57,Zero,No,Region_3,12557.6053,1
+36,Female,26.2,Zero,No,Region_4,4883.866,1
+25,Male,25.74,Zero,No,Region_3,2137.6536,0
+56,Female,26.6,One,No, Region_2,12044.342,0
+18,Male,34.43,Zero,No,Region_3,1137.4697,1
+19,Male,30.59,Zero,No, Region_2,1639.5631,1
+39,Female,32.8,Zero,No,Region_4,5649.715,1
+45,Female,28.6,Two,No,Region_3,8516.829,1
+51,Female,18.05,Zero,No, Region_2,9644.2525,0
+64,Female,39.33,Zero,No,Region_1,14901.5167,1
+19,Female,32.11,Zero,No, Region_2,2130.6759,1
+48,Female,32.23,One,No,Region_3,8871.1517,1
+60,Female,24.035,Zero,No, Region_2,13012.20865,0
+27,Female,36.08,Zero,Yes,Region_3,37133.8982,1
+46,Male,22.3,Zero,No,Region_4,7147.105,0
+28,Female,28.88,One,No,Region_1,4337.7352,0
+59,Male,26.4,Zero,No,Region_3,11743.299,1
+35,Male,27.74,Two,Yes,Region_1,20984.0936,0
+63,Female,31.8,Zero,No,Region_4,13880.949,1
+40,Male,41.23,One,No,Region_1,6610.1097,1
+20,Male,33,One,No,Region_4,1980.07,1
+40,Male,30.875,Four,No, Region_2,8162.71625,0
+24,Male,28.5,Two,No, Region_2,3537.703,0
+34,Female,26.73,One,No,Region_3,5002.7827,0
+45,Female,30.9,Two,No,Region_4,8520.026,0
+41,Female,37.1,Two,No,Region_4,7371.772,1
+53,Female,26.6,Zero,No, Region_2,10355.641,1
+27,Male,23.1,Zero,No,Region_3,2483.736,0
+26,Female,29.92,One,No,Region_3,3392.9768,0
+24,Female,23.21,Zero,No,Region_3,25081.76784,0
+34,Female,33.7,One,No,Region_4,5012.471,1
+53,Female,33.25,Zero,No,Region_1,10564.8845,1
+32,Male,30.8,Three,No,Region_4,5253.524,0
+19,Male,34.8,Zero,Yes,Region_4,34779.615,1
+42,Male,24.64,Zero,Yes,Region_3,19515.5416,1
+55,Male,33.88,Three,No,Region_3,11987.1682,0
+28,Male,38.06,Zero,No,Region_3,2689.4954,1
+58,Female,41.91,Zero,No,Region_3,24227.33724,1
+41,Female,31.635,One,No,Region_1,7358.17565,1
+47,Male,25.46,Two,No,Region_1,9225.2564,1
+42,Female,36.195,One,No, Region_2,7443.64305,1
+59,Female,27.83,Three,No,Region_3,14001.2867,1
+19,Female,17.8,Zero,No,Region_4,1727.785,0
+59,Male,27.5,One,No,Region_4,12333.828,0
+39,Male,24.51,Two,No, Region_2,6710.1919,0
+40,Female,22.22,Two,Yes,Region_3,19444.2658,0
+18,Female,26.73,Zero,No,Region_3,1615.7667,1
+31,Male,38.39,Two,No,Region_3,4463.2051,0
+19,Male,29.07,Zero,Yes, Region_2,17352.6803,1
+44,Male,38.06,One,No,Region_3,7152.6714,1
+23,Female,36.67,Two,Yes,Region_1,38511.6283,1
+33,Female,22.135,One,No,Region_1,5354.07465,0
+55,Female,26.8,One,No,Region_4,35160.13457,0
+40,Male,35.3,Three,No,Region_4,7196.867,0
+63,Female,27.74,Zero,Yes,Region_1,29523.1656,1
+54,Male,30.02,Zero,No, Region_2,24476.47851,1
+60,Female,38.06,Zero,No,Region_3,12648.7034,1
+24,Male,35.86,Zero,No,Region_3,1986.9334,1
+19,Male,20.9,One,No,Region_4,1832.094,0
+29,Male,28.975,One,No,Region_1,4040.55825,0
+18,Male,17.29,Two,Yes,Region_1,12829.4551,0
+63,Female,32.2,Two,Yes,Region_4,47305.305,1
+54,Male,34.21,Two,Yes,Region_3,44260.7499,1
+27,Male,30.3,Three,No,Region_4,4260.744,0
+50,Male,31.825,Zero,Yes,Region_1,41097.16175,1
+55,Female,25.365,Three,No,Region_1,13047.33235,1
+56,Male,33.63,Zero,Yes, Region_2,43921.1837,1
+38,Female,40.15,Zero,No,Region_3,5400.9805,1
+51,Male,24.415,Four,No, Region_2,11520.09985,0
+19,Male,31.92,Zero,Yes, Region_2,33750.2918,1
+58,Female,25.2,Zero,No,Region_4,11837.16,0
+20,Female,26.84,One,Yes,Region_3,17085.2676,1
+52,Male,24.32,Three,Yes,Region_1,24869.8368,1
+19,Male,36.955,Zero,Yes, Region_2,36219.40545,1
+53,Female,38.06,Three,No,Region_3,20462.99766,0
+46,Male,42.35,Three,Yes,Region_3,46151.1245,1
+40,Male,19.8,One,Yes,Region_3,17179.522,1
+59,Female,32.395,Three,No,Region_1,14590.63205,0
+45,Male,30.2,One,No,Region_4,7441.053,1
+49,Male,25.84,One,No,Region_1,9282.4806,0
+18,Male,29.37,One,No,Region_3,1719.4363,0
+50,Male,34.2,Two,Yes,Region_4,42856.838,1
+41,Male,37.05,Two,No, Region_2,7265.7025,1
+50,Male,27.455,One,No,Region_1,9617.66245,0
+25,Male,27.55,Zero,No, Region_2,2523.1695,1
+47,Female,26.6,Two,No,Region_1,9715.841,1
+19,Male,20.615,Two,No, Region_2,2803.69785,0
+22,Female,24.3,Zero,No,Region_4,2150.469,0
+59,Male,31.79,Two,No,Region_3,12928.7911,0
+51,Female,21.56,One,No,Region_3,9855.1314,0
+40,Female,28.12,One,Yes,Region_1,22331.5668,1
+54,Male,40.565,Three,Yes,Region_1,48549.17835,1
+30,Male,27.645,One,No,Region_1,4237.12655,0
+55,Female,32.395,One,No,Region_1,11879.10405,1
+52,Female,31.2,Zero,No,Region_4,9625.92,1
+46,Male,26.62,One,No,Region_3,7742.1098,0
+46,Female,48.07,Two,No,Region_1,9432.9253,1
+63,Female,26.22,Zero,No, Region_2,14256.1928,1
+59,Female,36.765,One,Yes,Region_1,47896.79135,1
+52,Male,26.4,Three,No,Region_3,25992.82104,1
+28,Female,33.4,Zero,No,Region_4,3172.018,1
+29,Male,29.64,One,No,Region_1,20277.80751,0
+25,Male,45.54,Two,Yes,Region_3,42112.2356,1
+22,Female,28.82,Zero,No,Region_3,2156.7518,1
+25,Male,26.8,Three,No,Region_4,3906.127,0
+18,Male,22.99,Zero,No,Region_1,1704.5681,0
+19,Male,27.7,Zero,Yes,Region_4,16297.846,1
+47,Male,25.41,One,Yes,Region_3,21978.6769,1
+31,Male,34.39,Three,Yes, Region_2,38746.3551,1
+48,Female,28.88,One,No, Region_2,9249.4952,0
+36,Male,27.55,Three,No,Region_1,6746.7425,0
+53,Female,22.61,Three,Yes,Region_1,24873.3849,1
+56,Female,37.51,Two,No,Region_3,12265.5069,1
+28,Female,33,Two,No,Region_3,4349.462,0
+57,Female,38,Two,No,Region_4,12646.207,1
+29,Male,33.345,Two,No, Region_2,19442.3535,0
+28,Female,27.5,Two,No,Region_4,20177.67113,0
+30,Female,33.33,One,No,Region_3,4151.0287,1
+58,Male,34.865,Zero,No,Region_1,11944.59435,1
+41,Female,33.06,Two,No, Region_2,7749.1564,0
+50,Male,26.6,Zero,No,Region_4,8444.474,1
+19,Female,24.7,Zero,No,Region_4,1737.376,0
+43,Male,35.97,Three,Yes,Region_3,42124.5153,1
+49,Male,35.86,Zero,No,Region_3,8124.4084,1
+27,Female,31.4,Zero,Yes,Region_4,34838.873,1
+52,Male,33.25,Zero,No,Region_1,9722.7695,1
+50,Male,32.205,Zero,No, Region_2,8835.26495,1
+54,Male,32.775,Zero,No,Region_1,10435.06525,1
+44,Female,27.645,Zero,No, Region_2,7421.19455,1
+32,Male,37.335,One,No,Region_1,4667.60765,0
+34,Male,25.27,One,No, Region_2,4894.7533,0
+26,Female,29.64,Four,No,Region_1,24671.66334,0
+34,Male,30.8,Zero,Yes,Region_4,35491.64,1
+57,Male,40.945,Zero,No,Region_1,11566.30055,1
+29,Male,27.2,Zero,No,Region_4,2866.091,1
+40,Male,34.105,One,No,Region_1,6600.20595,1
+27,Female,23.21,One,No,Region_3,3561.8889,0
+45,Male,36.48,Two,Yes, Region_2,42760.5022,1
+64,Female,33.8,One,Yes,Region_4,47928.03,1
+52,Male,36.7,Zero,No,Region_4,9144.565,1
+61,Female,36.385,One,Yes,Region_1,48517.56315,1
+52,Male,27.36,Zero,Yes, Region_2,24393.6224,1
+61,Female,31.16,Zero,No, Region_2,13429.0354,1
+56,Female,28.785,Zero,No,Region_1,11658.37915,1
+43,Female,35.72,Two,No,Region_1,19144.57652,1
+64,Male,34.5,Zero,No,Region_4,13822.803,1
+60,Male,25.74,Zero,No,Region_3,12142.5786,0
+62,Male,27.55,One,No, Region_2,13937.6665,0
+50,Male,32.3,One,Yes,Region_1,41919.097,1
+46,Female,27.72,One,No,Region_3,8232.6388,0
+24,Female,27.6,Zero,No,Region_4,18955.22017,1
+62,Male,30.02,Zero,No, Region_2,13352.0998,1
+60,Female,27.55,Zero,No,Region_1,13217.0945,1
+63,Male,36.765,Zero,No,Region_1,13981.85035,1
+49,Female,41.47,Four,No,Region_3,10977.2063,0
+34,Female,29.26,Three,No,Region_3,6184.2994,0
+33,Male,35.75,Two,No,Region_3,4889.9995,0
+46,Male,33.345,One,No,Region_1,8334.45755,1
+36,Female,29.92,One,No,Region_3,5478.0368,0
+19,Male,27.835,Zero,No, Region_2,1635.73365,1
+57,Female,23.18,Zero,No, Region_2,11830.6072,0
+50,Female,25.6,Zero,No,Region_4,8932.084,0
+30,Female,27.7,Zero,No,Region_4,3554.203,1
+33,Male,35.245,Zero,No,Region_1,12404.8791,1
+18,Female,38.28,Zero,No,Region_3,14133.03775,1
+46,Male,27.6,Zero,No,Region_4,24603.04837,1
+46,Male,43.89,Three,No,Region_3,8944.1151,0
+47,Male,29.83,Three,No, Region_2,9620.3307,1
+23,Male,41.91,Zero,No,Region_3,1837.2819,1
+18,Female,20.79,Zero,No,Region_3,1607.5101,0
+48,Female,32.3,Two,No,Region_1,10043.249,0
+35,Male,30.5,One,No,Region_4,4751.07,0
+19,Female,21.7,Zero,Yes,Region_4,13844.506,1
+21,Female,26.4,One,No,Region_4,2597.779,0
+21,Female,21.89,Two,No,Region_3,3180.5101,0
+49,Female,30.78,One,No,Region_1,9778.3472,1
+56,Female,32.3,Three,No,Region_1,13430.265,0
+42,Female,24.985,Two,No, Region_2,8017.06115,0
+44,Male,32.015,Two,No, Region_2,8116.26885,0
+18,Male,30.4,Three,No,Region_1,3481.868,0
+61,Female,21.09,Zero,No, Region_2,13415.0381,0
+57,Female,22.23,Zero,No,Region_1,12029.2867,0
+42,Female,33.155,One,No,Region_1,7639.41745,1
+26,Male,32.9,Two,Yes,Region_4,36085.219,1
+20,Male,33.33,Zero,No,Region_3,1391.5287,1
+23,Female,28.31,Zero,Yes, Region_2,18033.9679,1
+39,Female,24.89,Three,Yes,Region_1,21659.9301,0
+24,Male,40.15,Zero,Yes,Region_3,38126.2465,1
+64,Female,30.115,Three,No, Region_2,16455.70785,0
+62,Male,31.46,One,No,Region_3,27000.98473,1
+27,Female,17.955,Two,Yes,Region_1,15006.57945,0
+55,Male,30.685,Zero,Yes,Region_1,42303.69215,1
+55,Male,33,Zero,No,Region_3,20781.48892,1
+35,Female,43.34,Two,No,Region_3,5846.9176,0
+44,Male,22.135,Two,No,Region_1,8302.53565,0
+19,Male,34.4,Zero,No,Region_4,1261.859,1
+58,Female,39.05,Zero,No,Region_3,11856.4115,1
+50,Male,25.365,Two,No, Region_2,30284.64294,1
+26,Female,22.61,Zero,No, Region_2,3176.8159,0
+24,Female,30.21,Three,No, Region_2,4618.0799,0
+48,Male,35.625,Four,No,Region_1,10736.87075,0
+19,Female,37.43,Zero,No, Region_2,2138.0707,1
+48,Male,31.445,One,No,Region_1,8964.06055,1
+49,Male,31.35,One,No,Region_1,9290.1395,1
+46,Female,32.3,Two,No,Region_1,9411.005,0
+46,Male,19.855,Zero,No, Region_2,7526.70645,0
+43,Female,34.4,Three,No,Region_4,8522.003,0
+21,Male,31.02,Zero,No,Region_3,16586.49771,1
+64,Male,25.6,Two,No,Region_4,14988.432,1
+18,Female,38.17,Zero,No,Region_3,1631.6683,1
+51,Female,20.6,Zero,No,Region_4,9264.797,0
+47,Male,47.52,One,No,Region_3,8083.9198,1
+64,Female,32.965,Zero,No, Region_2,14692.66935,1
+49,Male,32.3,Three,No, Region_2,10269.46,0
+31,Male,20.4,Zero,No,Region_4,3260.199,0
+52,Female,38.38,Two,No,Region_1,11396.9002,1
+33,Female,24.31,Zero,No,Region_3,4185.0979,0
+47,Female,23.6,One,No,Region_4,8539.671,0
+38,Male,21.12,Three,No,Region_3,6652.5288,0
+32,Male,30.03,One,No,Region_3,4074.4537,0
+19,Male,17.48,Zero,No, Region_2,1621.3402,1
+44,Female,20.235,One,Yes,Region_1,19594.80965,1
+26,Female,17.195,Two,Yes,Region_1,14455.64405,0
+25,Male,23.9,Five,No,Region_4,5080.096,0
+19,Female,35.15,Zero,No, Region_2,2134.9015,1
+43,Female,35.64,One,No,Region_3,7345.7266,1
+52,Male,34.1,Zero,No,Region_3,9140.951,1
+36,Female,22.6,Two,Yes,Region_4,18608.262,0
+64,Male,39.16,One,No,Region_3,14418.2804,1
+63,Female,26.98,Zero,Yes, Region_2,28950.4692,1
+64,Male,33.88,Zero,Yes,Region_3,46889.2612,1
+61,Male,35.86,Zero,Yes,Region_3,46599.1084,1
+40,Male,32.775,One,Yes,Region_1,39125.33225,1
+25,Male,30.59,Zero,No,Region_1,2727.3951,1
+48,Male,30.2,Two,No,Region_4,8968.33,0
+45,Male,24.31,Five,No,Region_3,9788.8659,0
+38,Female,27.265,One,No,Region_1,6555.07035,0
+18,Female,29.165,Zero,No,Region_1,7323.734819,1
+21,Female,16.815,One,No,Region_1,3167.45585,1
+27,Female,30.4,Three,No, Region_2,18804.7524,0
+19,Male,33.1,Zero,No,Region_4,23082.95533,1
+29,Female,20.235,Two,No, Region_2,4906.40965,0
+42,Male,26.9,Zero,No,Region_4,5969.723,1
+60,Female,30.5,Zero,No,Region_4,12638.195,1
+31,Male,28.595,One,No, Region_2,4243.59005,0
+60,Male,33.11,Three,No,Region_3,13919.8229,0
+22,Male,31.73,Zero,No,Region_1,2254.7967,1
+35,Male,28.9,Three,No,Region_4,5926.846,0
+52,Female,46.75,Five,No,Region_3,12592.5345,1
+26,Male,29.45,Zero,No,Region_1,2897.3235,1
+31,Female,32.68,One,No, Region_2,4738.2682,1
+33,Female,33.5,Zero,Yes,Region_4,37079.372,1
+18,Male,43.01,Zero,No,Region_3,1149.3959,1
+59,Female,36.52,One,No,Region_3,28287.89766,1
+56,Male,26.695,One,Yes, Region_2,26109.32905,1
+45,Female,33.1,Zero,No,Region_4,7345.084,1
+60,Male,29.64,Zero,No,Region_1,12730.9996,1
+56,Female,25.65,Zero,No, Region_2,11454.0215,0
+40,Female,29.6,Zero,No,Region_4,5910.944,1
+35,Male,38.6,One,No,Region_4,4762.329,0
+39,Male,29.6,Four,No,Region_4,7512.267,0
+30,Male,24.13,One,No, Region_2,4032.2407,0
+24,Male,23.4,Zero,No,Region_4,1969.614,0
+20,Male,29.735,Zero,No, Region_2,1769.53165,1
+32,Male,46.53,Two,No,Region_3,4686.3887,1
+59,Male,37.4,Zero,No,Region_4,21797.0004,1
+55,Female,30.14,Two,No,Region_3,11881.9696,0
+57,Female,30.495,Zero,No, Region_2,11840.77505,1
+56,Male,39.6,Zero,No,Region_4,10601.412,1
+40,Female,33,Three,No,Region_3,7682.67,0
+49,Female,36.63,Three,No,Region_3,10381.4787,0
+42,Male,30,Zero,Yes,Region_4,22144.032,1
+62,Female,38.095,Two,No,Region_1,15230.32405,1
+56,Male,25.935,Zero,No,Region_1,11165.41765,0
+19,Male,25.175,Zero,No, Region_2,1632.03625,0
+30,Female,28.38,One,Yes,Region_3,19521.9682,1
+60,Female,28.7,One,No,Region_4,13224.693,0
+56,Female,33.82,Two,No, Region_2,12643.3778,0
+28,Female,24.32,One,No,Region_1,23288.9284,0
+18,Female,24.09,One,No,Region_3,2201.0971,0
+27,Male,32.67,Zero,No,Region_3,2497.0383,1
+18,Female,30.115,Zero,No,Region_1,2203.47185,1
+19,Female,29.8,Zero,No,Region_4,1744.465,1
+47,Female,33.345,Zero,No,Region_1,20878.78443,1
+54,Male,25.1,Three,Yes,Region_4,25382.297,1
+61,Male,28.31,One,Yes, Region_2,28868.6639,1
+24,Male,28.5,Zero,Yes,Region_1,35147.52848,1
+25,Male,35.625,Zero,No, Region_2,2534.39375,1
+21,Male,36.85,Zero,No,Region_3,1534.3045,1
+23,Male,32.56,Zero,No,Region_3,1824.2854,1
+63,Male,41.325,Three,No, Region_2,15555.18875,0
+49,Male,37.51,Two,No,Region_3,9304.7019,1
+18,Female,31.35,Zero,No,Region_3,1622.1885,1
+51,Female,39.5,One,No,Region_4,9880.068,1
+48,Male,34.3,Three,No,Region_4,9563.029,0
+31,Female,31.065,Zero,No,Region_1,4347.02335,1
+54,Female,21.47,Three,No, Region_2,12475.3513,0
+19,Male,28.7,Zero,No,Region_4,1253.936,1
+44,Female,38.06,Zero,Yes,Region_3,48885.13561,1
+53,Male,31.16,One,No, Region_2,10461.9794,1
+19,Female,32.9,Zero,No,Region_4,1748.774,1
+61,Female,25.08,Zero,No,Region_3,24513.09126,0
+18,Female,25.08,Zero,No,Region_1,2196.4732,0
+61,Male,43.4,Zero,No,Region_4,12574.049,1
+21,Male,25.7,Four,Yes,Region_4,17942.106,0
+20,Male,27.93,Zero,No,Region_1,1967.0227,1
+31,Female,23.6,Two,No,Region_4,4931.647,0
+45,Male,28.7,Two,No,Region_4,8027.968,1
+44,Female,23.98,Two,No,Region_3,8211.1002,0
+62,Female,39.2,Zero,No,Region_4,13470.86,1
+29,Male,34.4,Zero,Yes,Region_4,36197.699,1
+43,Male,26.03,Zero,No,Region_1,6837.3687,1
+51,Male,23.21,One,Yes,Region_3,22218.1149,1
+19,Male,30.25,Zero,Yes,Region_3,32548.3405,1
+38,Female,28.93,One,No,Region_3,5974.3847,0
+37,Male,30.875,Three,No, Region_2,6796.86325,0
+22,Male,31.35,One,No, Region_2,2643.2685,1
+21,Male,23.75,Two,No, Region_2,3077.0955,0
+24,Female,25.27,Zero,No,Region_1,3044.2133,0
+57,Female,28.7,Zero,No,Region_4,11455.28,1
+56,Male,32.11,One,No,Region_1,11763.0009,1
+27,Male,33.66,Zero,No,Region_3,2498.4144,1
+51,Male,22.42,Zero,No,Region_1,9361.3268,0
+19,Male,30.4,Zero,No,Region_4,1256.299,1
+39,Male,28.3,One,Yes,Region_4,21082.16,1
+58,Male,35.7,Zero,No,Region_4,11362.755,1
+20,Male,35.31,One,No,Region_3,27724.28875,0
+45,Male,30.495,Two,No, Region_2,8413.46305,0
+35,Female,31,One,No,Region_4,5240.765,0
+31,Male,30.875,Zero,No,Region_1,3857.75925,1
+50,Female,27.36,Zero,No,Region_1,25656.57526,1
+32,Female,44.22,Zero,No,Region_3,3994.1778,1
+51,Female,33.915,Zero,No,Region_1,9866.30485,1
+38,Female,37.73,Zero,No,Region_3,5397.6167,1
+42,Male,26.07,One,Yes,Region_3,38245.59327,1
+18,Female,33.88,Zero,No,Region_3,11482.63485,1
+19,Female,30.59,Two,No, Region_2,24059.68019,0
+51,Female,25.8,One,No,Region_4,9861.025,0
+46,Male,39.425,One,No,Region_1,8342.90875,1
+18,Male,25.46,Zero,No,Region_1,1708.0014,0
+57,Male,42.13,One,Yes,Region_3,48675.5177,1
+62,Female,31.73,Zero,No,Region_1,14043.4767,1
+59,Male,29.7,Two,No,Region_3,12925.886,1
+37,Male,36.19,Zero,No,Region_3,19214.70553,1
+64,Male,40.48,Zero,No,Region_3,13831.1152,1
+38,Male,28.025,One,No,Region_1,6067.12675,0
+33,Female,38.9,Three,No,Region_4,5972.378,0
+46,Female,30.2,Two,No,Region_4,8825.086,0
+46,Female,28.05,One,No,Region_3,8233.0975,0
+53,Male,31.35,Zero,No,Region_3,27346.04207,1
+34,Female,38,Three,No,Region_4,6196.448,0
+20,Female,31.79,Two,No,Region_3,3056.3881,0
+63,Female,36.3,Zero,No,Region_3,13887.204,1
+54,Female,47.41,Zero,Yes,Region_3,63770.42801,1
+54,Male,30.21,Zero,No, Region_2,10231.4999,1
+49,Male,25.84,Two,Yes, Region_2,23807.2406,1
+28,Male,35.435,Zero,No,Region_1,3268.84665,1
+54,Female,46.7,Two,No,Region_4,11538.421,1
+25,Female,28.595,Zero,No,Region_1,3213.62205,1
+43,Female,46.2,Zero,Yes,Region_3,45863.205,1
+63,Male,30.8,Zero,No,Region_4,13390.559,1
+32,Female,28.93,Zero,No,Region_3,3972.9247,1
+62,Male,21.4,Zero,No,Region_4,12957.118,0
+52,Female,31.73,Two,No, Region_2,11187.6567,0
+25,Female,41.325,Zero,No,Region_1,17878.90068,1
+28,Male,23.8,Two,No,Region_4,3847.674,0
+46,Male,33.44,One,No,Region_1,8334.5896,1
+34,Male,34.21,Zero,No,Region_3,3935.1799,1
+35,Female,34.105,Three,Yes, Region_2,39983.42595,1
+19,Male,35.53,Zero,No, Region_2,1646.4297,1
+46,Female,19.95,Two,No, Region_2,9193.8385,0
+54,Female,32.68,Zero,No,Region_1,10923.9332,1
+27,Male,30.5,Zero,No,Region_4,2494.022,1
+50,Male,44.77,One,No,Region_3,9058.7303,1
+18,Female,32.12,Two,No,Region_3,2801.2588,0
+19,Female,30.495,Zero,No, Region_2,2128.43105,1
+38,Female,40.565,One,No, Region_2,6373.55735,1
+41,Male,30.59,Two,No, Region_2,7256.7231,0
+49,Female,31.9,Five,No,Region_4,11552.904,0
+48,Male,40.565,Two,Yes, Region_2,45702.02235,1
+31,Female,29.1,Zero,No,Region_4,3761.292,1
+18,Female,37.29,One,No,Region_3,2219.4451,0
+30,Female,43.12,Two,No,Region_3,4753.6368,0
+62,Female,36.86,One,No,Region_1,31620.00106,1
+57,Female,34.295,Two,No,Region_1,13224.05705,0
+58,Female,27.17,Zero,No, Region_2,12222.8983,1
+22,Male,26.84,Zero,No,Region_3,1664.9996,1
+31,Female,38.095,One,Yes,Region_1,58571.07448,1
+52,Male,30.2,One,No,Region_4,9724.53,1
+25,Female,23.465,Zero,No,Region_1,3206.49135,0
+59,Male,25.46,One,No,Region_1,12913.9924,0
+19,Male,30.59,Zero,No, Region_2,1639.5631,1
+39,Male,45.43,Two,No,Region_3,6356.2707,1
+32,Female,23.65,One,No,Region_3,17626.23951,0
+19,Male,20.7,Zero,No,Region_4,1242.816,0
+33,Female,28.27,One,No,Region_3,4779.6023,0
+21,Male,20.235,Three,No,Region_1,3861.20965,0
+34,Female,30.21,One,Yes, Region_2,43943.8761,1
+61,Female,35.91,Zero,No,Region_1,13635.6379,1
+38,Female,30.69,One,No,Region_3,5976.8311,0
+58,Female,29,Zero,No,Region_4,11842.442,1
+47,Male,19.57,One,No, Region_2,8428.0693,0
+20,Male,31.13,Two,No,Region_3,2566.4707,0
+21,Female,21.85,One,Yes,Region_1,15359.1045,1
+41,Male,40.26,Zero,No,Region_3,5709.1644,1
+46,Female,33.725,One,No,Region_1,8823.98575,1
+42,Female,29.48,Two,No,Region_3,7640.3092,1
+34,Female,33.25,One,No,Region_1,5594.8455,1
+43,Male,32.6,Two,No,Region_4,7441.501,0
+52,Female,37.525,Two,No, Region_2,33471.97189,1
+18,Female,39.16,Zero,No,Region_3,1633.0444,1
+51,Male,31.635,Zero,No, Region_2,9174.13565,1
+56,Female,25.3,Zero,No,Region_4,11070.535,0
+64,Female,39.05,Three,No,Region_3,16085.1275,0
+19,Female,28.31,Zero,Yes, Region_2,17468.9839,1
+51,Female,34.1,Zero,No,Region_3,9283.562,1
+27,Female,25.175,Zero,No,Region_1,3558.62025,0
+59,Female,23.655,Zero,Yes, Region_2,25678.77845,1
+28,Male,26.98,Two,No,Region_1,4435.0942,0
+30,Male,37.8,Two,Yes,Region_4,39241.442,1
+47,Female,29.37,One,No,Region_3,8547.6913,0
+38,Female,34.8,Two,No,Region_4,6571.544,0
+18,Female,33.155,Zero,No,Region_1,2207.69745,1
+34,Female,19,Three,No,Region_1,6753.038,0
+20,Female,33,Zero,No,Region_3,1880.07,1
+47,Female,36.63,One,Yes,Region_3,42969.8527,1
+56,Female,28.595,Zero,No,Region_1,11658.11505,1
+49,Male,25.6,Two,Yes,Region_4,23306.547,1
+19,Female,33.11,Zero,Yes,Region_3,34439.8559,1
+55,Female,37.1,Zero,No,Region_4,10713.644,1
+30,Male,31.4,One,No,Region_4,3659.346,1
+37,Male,34.1,Four,Yes,Region_4,40182.246,1
+49,Female,21.3,One,No,Region_4,9182.17,0
+18,Male,33.535,Zero,Yes,Region_1,34617.84065,1
+59,Male,28.785,Zero,No, Region_2,12129.61415,1
+29,Female,26.03,Zero,No, Region_2,3736.4647,1
+36,Male,28.88,Three,No,Region_1,6748.5912,0
+33,Male,42.46,One,No,Region_3,11326.71487,1
+58,Male,38,Zero,No,Region_4,11365.952,1
+44,Female,38.95,Zero,Yes, Region_2,42983.4585,1
+53,Male,36.1,One,No,Region_4,10085.846,1
+24,Male,29.3,Zero,No,Region_4,1977.815,1
+29,Female,35.53,Zero,No,Region_3,3366.6697,1
+40,Male,22.705,Two,No,Region_1,7173.35995,0
+51,Male,39.7,One,No,Region_4,9391.346,1
+64,Male,38.19,Zero,No,Region_1,14410.9321,1
+19,Female,24.51,One,No, Region_2,2709.1119,0
+35,Female,38.095,Two,No,Region_1,24915.04626,0
+39,Male,26.41,Zero,Yes,Region_1,20149.3229,1
+56,Male,33.66,Four,No,Region_3,12949.1554,0
+33,Male,42.4,Five,No,Region_4,6666.243,0
+42,Male,28.31,Three,Yes, Region_2,32787.45859,0
+61,Male,33.915,Zero,No,Region_1,13143.86485,1
+23,Female,34.96,Three,No, Region_2,4466.6214,0
+43,Male,35.31,Two,No,Region_3,18806.14547,1
+48,Male,30.78,Three,No,Region_1,10141.1362,0
+39,Male,26.22,One,No, Region_2,6123.5688,0
+40,Female,23.37,Three,No,Region_1,8252.2843,0
+18,Male,28.5,Zero,No,Region_1,1712.227,1
+58,Female,32.965,Zero,No,Region_1,12430.95335,1
+49,Female,42.68,Two,No,Region_3,9800.8882,0
+53,Female,39.6,One,No,Region_3,10579.711,1
+48,Female,31.13,Zero,No,Region_3,8280.6227,1
+45,Female,36.3,Two,No,Region_3,8527.532,1
+59,Female,35.2,Zero,No,Region_3,12244.531,1
+52,Female,25.3,Two,Yes,Region_3,24667.419,1
+26,Female,42.4,One,No,Region_4,3410.324,1
+27,Male,33.155,Two,No, Region_2,4058.71245,0
+48,Female,35.91,One,No,Region_1,26392.26029,1
+57,Female,28.785,Four,No,Region_1,14394.39815,1
+37,Male,46.53,Three,No,Region_3,6435.6237,1
+57,Female,23.98,One,No,Region_3,22192.43711,0
+32,Female,31.54,One,No,Region_1,5148.5526,1
+18,Male,33.66,Zero,No,Region_3,1136.3994,1
+64,Female,22.99,Zero,Yes,Region_3,27037.9141,1
+43,Male,38.06,Two,Yes,Region_3,42560.4304,1
+49,Male,28.7,One,No,Region_4,8703.456,0
+40,Female,32.775,Two,Yes, Region_2,40003.33225,1
+62,Male,32.015,Zero,Yes,Region_1,45710.20785,1
+40,Female,29.81,One,No,Region_3,6500.2359,0
+30,Male,31.57,Three,No,Region_3,4837.5823,0
+29,Female,31.16,Zero,No,Region_1,3943.5954,1
+36,Male,29.7,Zero,No,Region_3,4399.731,1
+41,Female,31.02,Zero,No,Region_3,6185.3208,1
+44,Female,43.89,Two,Yes,Region_3,46200.9851,1
+45,Male,21.375,Zero,No, Region_2,7222.78625,0
+55,Female,40.81,Three,No,Region_3,12485.8009,0
+60,Male,31.35,Three,Yes, Region_2,46130.5265,1
+56,Male,36.1,Three,No,Region_4,12363.547,0
+49,Female,23.18,Two,No, Region_2,10156.7832,0
+21,Female,17.4,One,No,Region_4,2585.269,1
+19,Male,20.3,Zero,No,Region_4,1242.26,0
+39,Male,35.3,Two,Yes,Region_4,40103.89,1
+53,Male,24.32,Zero,No, Region_2,9863.4718,0
+33,Female,18.5,One,No,Region_4,4766.022,0
+53,Male,26.41,Two,No,Region_1,11244.3769,1
+42,Male,26.125,Two,No,Region_1,7729.64575,1
+40,Male,41.69,Zero,No,Region_3,5438.7491,1
+47,Female,24.1,One,No,Region_4,26236.57997,0
+27,Male,31.13,One,Yes,Region_3,34806.4677,1
+21,Male,27.36,Zero,No,Region_1,2104.1134,1
+47,Male,36.2,One,No,Region_4,8068.185,1
+20,Male,32.395,One,No, Region_2,2362.22905,1
+24,Male,23.655,Zero,No, Region_2,2352.96845,0
+27,Female,34.8,One,No,Region_4,3577.999,1
+26,Female,40.185,Zero,No, Region_2,3201.24515,1
+53,Female,32.3,Two,No,Region_1,29186.48236,0
+41,Male,35.75,One,Yes,Region_3,40273.6455,1
+56,Male,33.725,Zero,No, Region_2,10976.24575,1
+23,Female,39.27,Two,No,Region_3,3500.6123,0
+21,Female,34.87,Zero,No,Region_3,2020.5523,1
+50,Female,44.745,Zero,No,Region_1,9541.69555,1
+53,Male,41.47,Zero,No,Region_3,9504.3103,1
+34,Female,26.41,One,No, Region_2,5385.3379,0
+47,Female,29.545,One,No, Region_2,8930.93455,0
+33,Female,32.9,Two,No,Region_4,5375.038,0
+51,Female,38.06,Zero,Yes,Region_3,44400.4064,1
+49,Male,28.69,Three,No, Region_2,10264.4421,1
+31,Female,30.495,Three,No,Region_1,6113.23105,0
+36,Female,27.74,Zero,No,Region_1,5469.0066,1
+18,Male,35.2,One,No,Region_3,1727.54,0
+50,Female,23.54,Two,No,Region_3,10107.2206,0
+43,Female,30.685,Two,No, Region_2,8310.83915,0
+20,Male,40.47,Zero,No,Region_1,1984.4533,1
+24,Female,22.6,Zero,No,Region_4,2457.502,0
+60,Male,28.9,Zero,No,Region_4,12146.971,1
+49,Female,22.61,One,No, Region_2,9566.9909,0
+60,Male,24.32,One,No, Region_2,13112.6048,0
+51,Female,36.67,Two,No, Region_2,10848.1343,1
+58,Female,33.44,Zero,No, Region_2,12231.6136,1
+51,Female,40.66,Zero,No,Region_1,9875.6804,1
+53,Male,36.6,Three,No,Region_4,11264.541,0
+62,Male,37.4,Zero,No,Region_4,12979.358,1
+19,Male,35.4,Zero,No,Region_4,1263.249,1
+50,Female,27.075,One,No,Region_1,10106.13425,0
+30,Female,39.05,Three,Yes,Region_3,40932.4295,1
+41,Male,28.405,One,No, Region_2,6664.68595,0
+29,Female,21.755,One,Yes,Region_1,16657.71745,1
+18,Female,40.28,Zero,No,Region_1,2217.6012,1
+41,Female,36.08,One,No,Region_3,6781.3542,1
+35,Male,24.42,Three,Yes,Region_3,19361.9988,0
+53,Male,21.4,One,No,Region_4,10065.413,0
+24,Female,30.1,Three,No,Region_4,4234.927,0
+48,Female,27.265,One,No,Region_1,9447.25035,0
+59,Female,32.1,Three,No,Region_4,14007.222,0
+49,Female,34.77,One,No, Region_2,9583.8933,1
+37,Female,38.39,Zero,Yes,Region_3,40419.0191,1
+26,Male,23.7,Two,No,Region_4,3484.331,0
+23,Male,31.73,Three,Yes,Region_1,36189.1017,1
+29,Male,35.5,Two,Yes,Region_4,44585.45587,1
+45,Male,24.035,Two,No,Region_1,8604.48365,0
+27,Male,29.15,Zero,Yes,Region_3,18246.4955,1
+53,Male,34.105,Zero,Yes,Region_1,43254.41795,1
+31,Female,26.62,Zero,No,Region_3,3757.8448,1
+50,Male,26.41,Zero,No, Region_2,8827.2099,1
+50,Female,30.115,One,No, Region_2,9910.35985,1
+34,Male,27,Two,No,Region_4,11737.84884,0
+19,Male,21.755,Zero,No, Region_2,1627.28245,0
+47,Female,36,One,No,Region_4,8556.907,1
+28,Male,30.875,Zero,No, Region_2,3062.50825,1
+37,Female,26.4,Zero,Yes,Region_3,19539.243,1
+21,Male,28.975,Zero,No, Region_2,1906.35825,1
+64,Male,37.905,Zero,No, Region_2,14210.53595,1
+58,Female,22.77,Zero,No,Region_3,11833.7823,0
+24,Male,33.63,Four,No,Region_1,17128.42608,0
+31,Male,27.645,Two,No,Region_1,5031.26955,0
+39,Female,22.8,Three,No,Region_1,7985.815,0
+47,Female,27.83,Zero,Yes,Region_3,23065.4207,1
+30,Male,37.43,Three,No,Region_1,5428.7277,0
+18,Male,38.17,Zero,Yes,Region_3,36307.7983,1
+22,Female,34.58,Two,No,Region_1,3925.7582,0
+23,Male,35.2,One,No,Region_4,2416.955,0
+33,Male,27.1,One,Yes,Region_4,19040.876,1
+27,Male,26.03,Zero,No,Region_1,3070.8087,1
+45,Female,25.175,Two,No,Region_1,9095.06825,1
+57,Female,31.825,Zero,No, Region_2,11842.62375,1
+47,Male,32.3,One,No,Region_4,8062.764,1
+42,Female,29,One,No,Region_4,7050.642,0
+64,Female,39.7,Zero,No,Region_4,14319.031,1
+38,Female,19.475,Two,No, Region_2,6933.24225,0
+61,Male,36.1,Three,No,Region_4,27941.28758,0
+53,Female,26.7,Two,No,Region_4,11150.78,1
+44,Female,36.48,Zero,No,Region_1,12797.20962,1
+19,Female,28.88,Zero,Yes, Region_2,17748.5062,1
+41,Male,34.2,Two,No, Region_2,7261.741,0
+51,Male,33.33,Three,No,Region_3,10560.4917,0
+40,Male,32.3,Two,No, Region_2,6986.697,0
+45,Male,39.805,Zero,No,Region_1,7448.40395,1
+35,Male,34.32,Three,No,Region_3,5934.3798,0
+53,Male,28.88,Zero,No, Region_2,9869.8102,1
+30,Male,24.4,Three,Yes,Region_4,18259.216,0
+18,Male,41.14,Zero,No,Region_3,1146.7966,1
+51,Male,35.97,One,No,Region_3,9386.1613,1
+50,Female,27.6,One,Yes,Region_4,24520.264,1
+31,Female,29.26,One,No,Region_3,4350.5144,0
+35,Female,27.7,Three,No,Region_4,6414.178,0
+60,Male,36.955,Zero,No,Region_1,12741.16745,1
+21,Male,36.86,Zero,No, Region_2,1917.3184,1
+29,Male,22.515,Three,No,Region_1,5209.57885,0
+62,Female,29.92,Zero,No,Region_3,13457.9608,1
+39,Female,41.8,Zero,No,Region_3,5662.225,1
+19,Male,27.6,Zero,No,Region_4,1252.407,1
+22,Female,23.18,Zero,No,Region_1,2731.9122,0
+53,Male,20.9,Zero,Yes,Region_3,21195.818,1
+39,Female,31.92,Two,No, Region_2,7209.4918,0
+27,Male,28.5,Zero,Yes, Region_2,18310.742,1
+30,Male,44.22,Two,No,Region_3,4266.1658,0
+30,Female,22.895,One,No,Region_1,4719.52405,0
+58,Female,33.1,Zero,No,Region_4,11848.141,1
+33,Male,24.795,Zero,Yes,Region_1,17904.52705,1
+42,Female,26.18,One,No,Region_3,7046.7222,0
+64,Female,35.97,Zero,No,Region_3,14313.8463,1
+21,Male,22.3,One,No,Region_4,2103.08,0
+18,Female,42.24,Zero,Yes,Region_3,38792.6856,1
+23,Male,26.51,Zero,No,Region_3,1815.8759,1
+45,Female,35.815,Zero,No, Region_2,7731.85785,1
+40,Female,41.42,One,No, Region_2,28476.73499,1
+19,Female,36.575,Zero,No, Region_2,2136.88225,1
+18,Male,30.14,Zero,No,Region_3,1131.5066,1
+25,Male,25.84,One,No,Region_1,3309.7926,0
+46,Female,30.8,Three,No,Region_4,9414.92,0
+33,Female,42.94,Three,No, Region_2,6360.9936,0
+54,Male,21.01,Two,No,Region_3,11013.7119,0
+28,Male,22.515,Two,No,Region_1,4428.88785,0
+36,Male,34.43,Two,No,Region_3,5584.3057,0
+20,Female,31.46,Zero,No,Region_3,1877.9294,1
+24,Female,24.225,Zero,No, Region_2,2842.76075,0
+23,Male,37.1,Three,No,Region_4,3597.596,0
+47,Female,26.125,One,Yes,Region_1,23401.30575,1
+33,Female,35.53,Zero,Yes, Region_2,55135.40209,1
+45,Male,33.7,One,No,Region_4,7445.918,1
+26,Male,17.67,Zero,No, Region_2,2680.9493,0
+18,Female,31.13,Zero,No,Region_3,1621.8827,1
+44,Female,29.81,Two,No,Region_3,8219.2039,1
+60,Male,24.32,Zero,No, Region_2,12523.6048,0
+64,Female,31.825,Two,No,Region_1,16069.08475,0
+56,Male,31.79,Two,Yes,Region_3,43813.8661,1
+36,Male,28.025,One,Yes,Region_1,20773.62775,1
+41,Male,30.78,Three,Yes,Region_1,39597.4072,1
+39,Male,21.85,One,No, Region_2,6117.4945,0
+63,Male,33.1,Zero,No,Region_4,13393.756,1
+36,Female,25.84,Zero,No, Region_2,5266.3656,0
+28,Female,23.845,Two,No, Region_2,4719.73655,0
+58,Male,34.39,Zero,No, Region_2,11743.9341,1
+36,Male,33.82,One,No, Region_2,5377.4578,1
+42,Male,35.97,Two,No,Region_3,7160.3303,1
+36,Male,31.5,Zero,No,Region_4,4402.233,1
+56,Female,28.31,Zero,No,Region_1,11657.7189,1
+35,Female,23.465,Two,No,Region_1,6402.29135,0
+59,Female,31.35,Zero,No, Region_2,12622.1795,1
+21,Male,31.1,Zero,No,Region_4,1526.312,1
+59,Male,24.7,Zero,No,Region_1,12323.936,0
+23,Female,32.78,Two,Yes,Region_3,36021.0112,1
+57,Female,29.81,Zero,Yes,Region_3,27533.9129,1
+53,Male,30.495,Zero,No,Region_1,10072.05505,1
+60,Female,32.45,Zero,Yes,Region_3,45008.9555,1
+51,Female,34.2,One,No,Region_4,9872.701,1
+23,Male,50.38,One,No,Region_3,2438.0552,1
+27,Female,24.1,Zero,No,Region_4,2974.126,0
+55,Male,32.775,Zero,No, Region_2,10601.63225,1
+37,Female,30.78,Zero,Yes,Region_1,37270.1512,1
+61,Male,32.3,Two,No, Region_2,14119.62,0
+46,Female,35.53,Zero,Yes,Region_1,42111.6647,1
+53,Female,23.75,Two,No,Region_1,11729.6795,0
+49,Female,23.845,Three,Yes,Region_1,24106.91255,1
+20,Female,29.6,Zero,No,Region_4,1875.344,1
+48,Female,33.11,Zero,Yes,Region_3,40974.1649,1
+25,Male,24.13,Zero,Yes, Region_2,15817.9857,1
+25,Female,32.23,One,No,Region_3,18218.16139,1
+57,Male,28.1,Zero,No,Region_4,10965.446,1
+37,Female,47.6,Two,Yes,Region_4,46113.511,1
+38,Female,28,Three,No,Region_4,7151.092,0
+55,Female,33.535,Two,No, Region_2,12269.68865,0
+36,Female,19.855,Zero,No,Region_1,5458.04645,0
+51,Male,25.4,Zero,No,Region_4,8782.469,0
+40,Male,29.9,Two,No,Region_4,6600.361,0
+18,Male,37.29,Zero,No,Region_3,1141.4451,1
+57,Male,43.7,One,No,Region_4,11576.13,1
+61,Male,23.655,Zero,No,Region_1,13129.60345,0
+25,Female,24.3,Three,No,Region_4,4391.652,0
+50,Male,36.2,Zero,No,Region_4,8457.818,1
+26,Female,29.48,One,No,Region_3,3392.3652,0
+42,Male,24.86,Zero,No,Region_3,5966.8874,0
+43,Male,30.1,One,No,Region_4,6849.026,1
+44,Male,21.85,Three,No,Region_1,8891.1395,0
+23,Female,28.12,Zero,No, Region_2,2690.1138,1
+49,Female,27.1,One,No,Region_4,26140.3603,0
+33,Male,33.44,Five,No,Region_3,6653.7886,0
+41,Male,28.8,One,No,Region_4,6282.235,0
+37,Female,29.5,Two,No,Region_4,6311.952,0
+22,Male,34.8,Three,No,Region_4,3443.064,0
+23,Male,27.36,One,No, Region_2,2789.0574,0
+21,Female,22.135,Zero,No,Region_1,2585.85065,0
+51,Female,37.05,Three,Yes,Region_1,46255.1125,1
+25,Male,26.695,Four,No, Region_2,4877.98105,0
+32,Male,28.93,One,Yes,Region_3,19719.6947,1
+57,Male,28.975,Zero,Yes,Region_1,27218.43725,1
+36,Female,30.02,Zero,No, Region_2,5272.1758,1
+22,Male,39.5,Zero,No,Region_4,1682.597,1
+57,Male,33.63,One,No, Region_2,11945.1327,1
+64,Female,26.885,Zero,Yes, Region_2,29330.98315,1
+36,Female,29.04,Four,No,Region_3,7243.8136,0
+54,Male,24.035,Zero,No,Region_1,10422.91665,0
+47,Male,38.94,Two,Yes,Region_3,44202.6536,1
+62,Male,32.11,Zero,No,Region_1,13555.0049,1
+61,Female,44,Zero,No,Region_4,13063.883,1
+43,Female,20.045,Two,Yes,Region_1,19798.05455,1
+19,Male,25.555,One,No, Region_2,2221.56445,0
+18,Female,40.26,Zero,No,Region_3,1634.5734,1
+19,Female,22.515,Zero,No, Region_2,2117.33885,0
+49,Male,22.515,Zero,No,Region_1,8688.85885,0
+60,Male,40.92,Zero,Yes,Region_3,48673.5588,1
+26,Male,27.265,Three,No,Region_1,4661.28635,0
+49,Male,36.85,Zero,No,Region_3,8125.7845,1
+60,Female,35.1,Zero,No,Region_4,12644.589,1
+26,Female,29.355,Two,No,Region_1,4564.19145,0
+27,Male,32.585,Three,No,Region_1,4846.92015,0
+44,Female,32.34,One,No,Region_3,7633.7206,1
+63,Male,39.8,Three,No,Region_4,15170.069,0
+32,Female,24.6,Zero,Yes,Region_4,17496.306,1
+22,Male,28.31,One,No, Region_2,2639.0429,0
+18,Male,31.73,Zero,Yes,Region_1,33732.6867,1
+59,Female,26.695,Three,No, Region_2,14382.70905,1
+44,Female,27.5,One,No,Region_4,7626.993,0
+33,Male,24.605,Two,No, Region_2,5257.50795,0
+24,Female,33.99,Zero,No,Region_3,2473.3341,1
+43,Female,26.885,Zero,Yes, Region_2,21774.32215,1
+45,Male,22.895,Zero,Yes,Region_1,35069.37452,1
+61,Female,28.2,Zero,No,Region_4,13041.921,1
+35,Female,34.21,One,No,Region_3,5245.2269,1
+62,Female,25,Zero,No,Region_4,13451.122,0
+62,Female,33.2,Zero,No,Region_4,13462.52,1
+38,Male,31,One,No,Region_4,5488.262,0
+34,Male,35.815,Zero,No, Region_2,4320.41085,1
+43,Male,23.2,Zero,No,Region_4,6250.435,0
+50,Male,32.11,Two,No,Region_1,25333.33284,0
+19,Female,23.4,Two,No,Region_4,2913.569,0
+57,Female,20.1,One,No,Region_4,12032.326,0
+62,Female,39.16,Zero,No,Region_3,13470.8044,1
+41,Male,34.21,One,No,Region_3,6289.7549,1
+26,Male,46.53,One,No,Region_3,2927.0647,1
+39,Female,32.5,One,No,Region_4,6238.298,1
+46,Male,25.8,Five,No,Region_4,10096.97,1
+45,Female,35.3,Zero,No,Region_4,7348.142,1
+32,Male,37.18,Two,No,Region_3,4673.3922,0
+59,Female,27.5,Zero,No,Region_4,12233.828,1
+44,Male,29.735,Two,No,Region_1,32108.66282,1
+39,Female,24.225,Five,No, Region_2,8965.79575,0
+18,Male,26.18,Two,No,Region_3,2304.0022,0
+53,Male,29.48,Zero,No,Region_3,9487.6442,1
+18,Male,23.21,Zero,No,Region_3,1121.8739,0
+50,Female,46.09,One,No,Region_3,9549.5651,1
+18,Female,40.185,Zero,No,Region_1,2217.46915,1
+19,Male,22.61,Zero,No, Region_2,1628.4709,0
+62,Male,39.93,Zero,No,Region_3,12982.8747,1
+56,Female,35.8,One,No,Region_4,11674.13,1
+42,Male,35.8,Two,No,Region_4,7160.094,1
+37,Male,34.2,One,Yes,Region_1,39047.285,1
+42,Male,31.255,Zero,No, Region_2,6358.77645,1
+25,Male,29.7,Three,Yes,Region_4,19933.458,0
+57,Male,18.335,Zero,No,Region_1,11534.87265,0
+51,Male,42.9,Two,Yes,Region_3,47462.894,1
+30,Female,28.405,One,No, Region_2,4527.18295,0
+44,Male,30.2,Two,Yes,Region_4,38998.546,1
+34,Male,27.835,One,Yes, Region_2,20009.63365,1
+31,Male,39.49,One,No,Region_3,3875.7341,0
+54,Male,30.8,One,Yes,Region_3,41999.52,1
+24,Male,26.79,One,No, Region_2,12609.88702,0
+43,Male,34.96,One,Yes,Region_1,41034.2214,1
+48,Male,36.67,One,No, Region_2,28468.91901,1
+19,Female,39.615,One,No, Region_2,2730.10785,0
+29,Female,25.9,Zero,No,Region_4,3353.284,0
+63,Female,35.2,One,No,Region_3,14474.675,1
+46,Male,24.795,Three,No,Region_1,9500.57305,0
+52,Male,36.765,Two,No, Region_2,26467.09737,1
+35,Male,27.1,One,No,Region_4,4746.344,0
+51,Male,24.795,Two,Yes, Region_2,23967.38305,1
+44,Male,25.365,One,No, Region_2,7518.02535,0
+21,Male,25.745,Two,No,Region_1,3279.86855,0
+39,Female,34.32,Five,No,Region_3,8596.8278,0
+50,Female,28.16,Three,No,Region_3,10702.6424,1
+34,Female,23.56,Zero,No,Region_1,4992.3764,0
+22,Female,20.235,Zero,No, Region_2,2527.81865,0
+19,Female,40.5,Zero,No,Region_4,1759.338,1
+26,Male,35.42,Zero,No,Region_3,2322.6218,1
+29,Male,22.895,Zero,Yes,Region_1,16138.76205,1
+48,Male,40.15,Zero,No,Region_3,7804.1605,1
+26,Male,29.15,One,No,Region_3,2902.9065,0
+45,Female,39.995,Three,No,Region_1,9704.66805,0
+36,Female,29.92,Zero,No,Region_3,4889.0368,1
+54,Male,25.46,One,No,Region_1,25517.11363,0
+34,Male,21.375,Zero,No,Region_1,4500.33925,0
+31,Male,25.9,Three,Yes,Region_4,19199.944,0
+27,Female,30.59,One,No,Region_1,16796.41194,0
+20,Male,30.115,Five,No,Region_1,4915.05985,0
+44,Female,25.8,One,No,Region_4,7624.63,0
+43,Male,30.115,Three,No, Region_2,8410.04685,0
+45,Female,27.645,One,No, Region_2,28340.18885,0
+34,Male,34.675,Zero,No,Region_1,4518.82625,1
+24,Female,20.52,Zero,Yes,Region_1,14571.8908,1
+26,Female,19.8,One,No,Region_4,3378.91,0
+38,Female,27.835,Two,No,Region_1,7144.86265,0
+50,Female,31.6,Two,No,Region_4,10118.424,0
+38,Male,28.27,One,No,Region_3,5484.4673,0
+27,Female,20.045,Three,Yes, Region_2,16420.49455,0
+39,Female,23.275,Three,No,Region_1,7986.47525,0
+39,Female,34.1,Three,No,Region_4,7418.522,0
+63,Female,36.85,Zero,No,Region_3,13887.9685,1
+33,Female,36.29,Three,No,Region_1,6551.7501,0
+36,Female,26.885,Zero,No, Region_2,5267.81815,1
+30,Male,22.99,Two,Yes, Region_2,17361.7661,0
+24,Male,32.7,Zero,Yes,Region_4,34472.841,1
+24,Male,25.8,Zero,No,Region_4,1972.95,0
+48,Male,29.6,Zero,No,Region_4,21232.18226,1
+47,Male,19.19,One,No,Region_1,8627.5411,0
+29,Male,31.73,Two,No, Region_2,4433.3877,0
+28,Male,29.26,Two,No,Region_1,4438.2634,0
+47,Male,28.215,Three,Yes, Region_2,24915.22085,1
+25,Male,24.985,Two,No,Region_1,23241.47453,0
+51,Male,27.74,One,No,Region_1,9957.7216,0
+48,Female,22.8,Zero,No,Region_4,8269.044,0
+43,Male,20.13,Two,Yes,Region_3,18767.7377,1
+61,Female,33.33,Four,No,Region_3,36580.28216,0
+48,Male,32.3,One,No, Region_2,8765.249,1
+38,Female,27.6,Zero,No,Region_4,5383.536,1
+59,Male,25.46,Zero,No, Region_2,12124.9924,0
+19,Female,24.605,One,No, Region_2,2709.24395,0
+26,Female,34.2,Two,No,Region_4,3987.926,0
+54,Female,35.815,Three,No, Region_2,12495.29085,0
+21,Female,32.68,Two,No, Region_2,26018.95052,0
+51,Male,37,Zero,No,Region_4,8798.593,1
+22,Female,31.02,Three,Yes,Region_3,35595.5898,1
+47,Male,36.08,One,Yes,Region_3,42211.1382,1
+18,Male,23.32,One,No,Region_3,1711.0268,0
+47,Female,45.32,One,No,Region_3,8569.8618,1
+21,Female,34.6,Zero,No,Region_4,2020.177,1
+19,Male,26.03,One,Yes, Region_2,16450.8947,1
+23,Male,18.715,Zero,No, Region_2,21595.38229,0
+54,Male,31.6,Zero,No,Region_4,9850.432,1
+37,Female,17.29,Two,No,Region_1,6877.9801,1
+46,Female,23.655,One,Yes, Region_2,21677.28345,1
+55,Female,35.2,Zero,Yes,Region_3,44423.803,1
+30,Female,27.93,Zero,No,Region_1,4137.5227,1
+18,Male,21.565,Zero,Yes,Region_1,13747.87235,1
+61,Male,38.38,Zero,No, Region_2,12950.0712,1
+54,Female,23,Three,No,Region_4,12094.478,0
+22,Male,37.07,Two,Yes,Region_3,37484.4493,1
+45,Female,30.495,One,Yes, Region_2,39725.51805,1
+22,Male,28.88,Zero,No,Region_1,2250.8352,1
+19,Male,27.265,Two,No, Region_2,22493.65964,0
+35,Female,28.025,Zero,Yes, Region_2,20234.85475,1
+18,Male,23.085,Zero,No,Region_1,1704.70015,0
+20,Male,30.685,Zero,Yes,Region_1,33475.81715,1
+28,Female,25.8,Zero,No,Region_4,3161.454,0
+55,Male,35.245,One,No,Region_1,11394.06555,1
+43,Female,24.7,Two,Yes, Region_2,21880.82,1
+43,Female,25.08,Zero,No,Region_1,7325.0482,0
+22,Male,52.58,One,Yes,Region_3,44501.3982,1
+25,Female,22.515,One,No, Region_2,3594.17085,0
+49,Male,30.9,Zero,Yes,Region_4,39727.614,1
+44,Female,36.955,One,No, Region_2,8023.13545,1
+64,Male,26.41,Zero,No,Region_1,14394.5579,1
+49,Male,29.83,One,No,Region_1,9288.0267,0
+47,Male,29.8,Three,Yes,Region_4,25309.489,1
+27,Female,21.47,Zero,No, Region_2,3353.4703,0
+55,Male,27.645,Zero,No, Region_2,10594.50155,1
+48,Female,28.9,Zero,No,Region_4,8277.523,1
+45,Female,31.79,Zero,No,Region_3,17929.30337,1
+24,Female,39.49,Zero,No,Region_3,2480.9791,1
+32,Male,33.82,One,No, Region_2,4462.7218,1
+24,Male,32.01,Zero,No,Region_3,1981.5819,1
+57,Male,27.94,One,No,Region_3,11554.2236,0
+59,Male,41.14,One,Yes,Region_3,48970.2476,1
+36,Male,28.595,Three,No, Region_2,6548.19505,0
+29,Female,25.6,Four,No,Region_4,5708.867,0
+42,Female,25.3,One,No,Region_4,7045.499,0
+48,Male,37.29,Two,No,Region_3,8978.1851,1
+39,Male,42.655,Zero,No,Region_1,5757.41345,1
+63,Male,21.66,One,No, Region_2,14349.8544,0
+54,Female,31.9,One,No,Region_3,10928.849,1
+37,Male,37.07,One,Yes,Region_3,39871.7043,1
+63,Male,31.445,Zero,No,Region_1,13974.45555,1
+21,Male,31.255,Zero,No, Region_2,1909.52745,1
+54,Female,28.88,Two,No,Region_1,12096.6512,1
+60,Female,18.335,Zero,No,Region_1,13204.28565,0
+32,Female,29.59,One,No,Region_3,4562.8421,0
+47,Female,32,One,No,Region_4,8551.347,1
+21,Male,26.03,Zero,No,Region_1,2102.2647,1
+28,Male,31.68,Zero,Yes,Region_3,34672.1472,1
+63,Male,33.66,Three,No,Region_3,15161.5344,0
+18,Male,21.78,Two,No,Region_3,11884.04858,0
+32,Male,27.835,One,No, Region_2,4454.40265,0
+38,Male,19.95,One,No, Region_2,5855.9025,0
+32,Male,31.5,One,No,Region_4,4076.497,1
+62,Female,30.495,Two,No, Region_2,15019.76005,0
+39,Female,18.3,Five,Yes,Region_4,19023.26,0
+55,Male,28.975,Zero,No,Region_1,10796.35025,1
+57,Male,31.54,Zero,No, Region_2,11353.2276,1
+52,Male,47.74,One,No,Region_3,9748.9106,1
+56,Male,22.1,Zero,No,Region_4,10577.087,0
+47,Male,36.19,Zero,Yes,Region_3,41676.0811,1
+55,Female,29.83,Zero,No,Region_1,11286.5387,1
+23,Male,32.7,Three,No,Region_4,3591.48,0
+22,Female,30.4,Zero,Yes, Region_2,33907.548,1
+50,Female,33.7,Four,No,Region_4,11299.343,0
+18,Female,31.35,Four,No,Region_1,4561.1885,0
+51,Female,34.96,Two,Yes,Region_1,44641.1974,1
+22,Male,33.77,Zero,No,Region_3,1674.6323,1
+52,Female,30.875,Zero,No,Region_1,23045.56616,1
+25,Female,33.99,One,No,Region_3,3227.1211,1
+33,Female,19.095,Two,Yes,Region_1,16776.30405,0
+53,Male,28.6,Three,No,Region_4,11253.421,1
+29,Male,38.94,One,No,Region_3,3471.4096,0
+58,Male,36.08,Zero,No,Region_3,11363.2832,1
+37,Male,29.8,Zero,No,Region_4,20420.60465,1
+54,Female,31.24,Zero,No,Region_3,10338.9316,1
+49,Female,29.925,Zero,No, Region_2,8988.15875,1
+50,Female,26.22,Two,No, Region_2,10493.9458,1
+26,Male,30,One,No,Region_4,2904.088,0
+45,Male,20.35,Three,No,Region_3,8605.3615,0
+54,Female,32.3,One,No,Region_1,11512.405,1
+38,Male,38.39,Three,Yes,Region_3,41949.2441,1
+48,Female,25.85,Three,Yes,Region_3,24180.9335,1
+28,Female,26.315,Three,No, Region_2,5312.16985,0
+23,Male,24.51,Zero,No,Region_1,2396.0959,0
+55,Male,32.67,One,No,Region_3,10807.4863,1
+41,Male,29.64,Five,No,Region_1,9222.4026,1
+25,Male,33.33,Two,Yes,Region_3,36124.5737,1
+33,Male,35.75,One,Yes,Region_3,38282.7495,1
+30,Female,19.95,Three,No, Region_2,5693.4305,0
+23,Female,31.4,Zero,Yes,Region_4,34166.273,1
+46,Male,38.17,Two,No,Region_3,8347.1643,1
+53,Female,36.86,Three,Yes, Region_2,46661.4424,1
+27,Female,32.395,One,No,Region_1,18903.49141,1
+23,Female,42.75,One,Yes,Region_1,40904.1995,1
+63,Female,25.08,Zero,No, Region_2,14254.6082,0
+55,Male,29.9,Zero,No,Region_4,10214.636,1
+35,Female,35.86,Two,No,Region_3,5836.5204,0
+34,Male,32.8,One,No,Region_4,14358.36437,1
+19,Female,18.6,Zero,No,Region_4,1728.897,0
+39,Female,23.87,Five,No,Region_3,8582.3023,0
+27,Male,45.9,Two,No,Region_4,3693.428,1
+57,Male,40.28,Zero,No,Region_1,20709.02034,1
+52,Female,18.335,Zero,No, Region_2,9991.03765,0
+28,Male,33.82,Zero,No, Region_2,19673.33573,1
+50,Female,28.12,Three,No, Region_2,11085.5868,1
+44,Female,25,One,No,Region_4,7623.518,0
+26,Female,22.23,Zero,No, Region_2,3176.2877,0
+33,Male,30.25,Zero,No,Region_3,3704.3545,1
+19,Female,32.49,Zero,Yes, Region_2,36898.73308,1
+50,Male,37.07,One,No,Region_3,9048.0273,1
+41,Female,32.6,Three,No,Region_4,7954.517,0
+52,Female,24.86,Zero,No,Region_3,27117.99378,0
+39,Male,32.34,Two,No,Region_3,6338.0756,0
+50,Male,32.3,Two,No,Region_4,9630.397,0
+52,Male,32.775,Three,No, Region_2,11289.10925,0
+60,Male,32.8,Zero,Yes,Region_4,52590.82939,1
+20,Female,31.92,Zero,No, Region_2,2261.5688,1
+55,Male,21.5,One,No,Region_4,10791.96,0
+42,Male,34.1,Zero,No,Region_4,5979.731,1
+18,Female,30.305,Zero,No,Region_1,2203.73595,1
+58,Female,36.48,Zero,No, Region_2,12235.8392,1
+43,Female,32.56,Three,Yes,Region_3,40941.2854,1
+35,Female,35.815,One,No, Region_2,5630.45785,0
+48,Female,27.93,Four,No, Region_2,11015.1747,1
+36,Female,22.135,Three,No,Region_1,7228.21565,0
+19,Male,44.88,Zero,Yes,Region_3,39722.7462,1
+23,Female,23.18,Two,No, Region_2,14426.07385,0
+20,Female,30.59,Zero,No,Region_1,2459.7201,1
+32,Female,41.1,Zero,No,Region_4,3989.841,1
+43,Female,34.58,One,No, Region_2,7727.2532,1
+34,Male,42.13,Two,No,Region_3,5124.1887,0
+30,Male,38.83,One,No,Region_3,18963.17192,0
+18,Female,28.215,Zero,No,Region_1,2200.83085,1
+41,Female,28.31,One,No, Region_2,7153.5539,0
+35,Female,26.125,Zero,No,Region_1,5227.98875,1
+57,Male,40.37,Zero,No,Region_3,10982.5013,1
+29,Female,24.6,Two,No,Region_4,4529.477,0
+32,Male,35.2,Two,No,Region_4,4670.64,0
+37,Female,34.105,One,No, Region_2,6112.35295,1
+18,Male,27.36,One,Yes,Region_1,17178.6824,1
+43,Female,26.7,Two,Yes,Region_4,22478.6,0
+56,Female,41.91,Zero,No,Region_3,11093.6229,1
+38,Male,29.26,Two,No, Region_2,6457.8434,0
+29,Male,32.11,Two,No, Region_2,4433.9159,0
+22,Female,27.1,Zero,No,Region_4,2154.361,1
+52,Female,24.13,One,Yes, Region_2,23887.6627,1
+40,Female,27.4,One,No,Region_4,6496.886,0
+23,Female,34.865,Zero,No,Region_1,2899.48935,1
+31,Male,29.81,Zero,Yes,Region_3,19350.3689,1
+42,Female,41.325,One,No,Region_1,7650.77375,1
+24,Female,29.925,Zero,No, Region_2,2850.68375,1
+25,Female,30.3,Zero,No,Region_4,2632.992,1
+48,Female,27.36,One,No,Region_1,9447.3824,0
+23,Female,28.49,One,Yes,Region_3,18328.2381,1
+45,Male,23.56,Two,No,Region_1,8603.8234,0
+20,Male,35.625,Three,Yes, Region_2,37465.34375,1
+62,Female,32.68,Zero,No, Region_2,13844.7972,1
+43,Female,25.27,One,Yes,Region_1,21771.3423,1
+23,Female,28,Zero,No,Region_4,13126.67745,1
+31,Female,32.775,Two,No, Region_2,5327.40025,0
+41,Female,21.755,One,No,Region_1,13725.47184,0
+58,Female,32.395,One,No,Region_1,13019.16105,1
+48,Female,36.575,Zero,No, Region_2,8671.19125,1
+31,Female,21.755,Zero,No, Region_2,4134.08245,0
+19,Female,27.93,Three,No, Region_2,18838.70366,0
+19,Female,30.02,Zero,Yes, Region_2,33307.5508,1
+41,Male,33.55,Zero,No,Region_3,5699.8375,1
+40,Male,29.355,One,No, Region_2,6393.60345,0
+31,Female,25.8,Two,No,Region_4,4934.705,0
+37,Male,24.32,Two,No, Region_2,6198.7518,0
+46,Male,40.375,Two,No, Region_2,8733.22925,0
+22,Male,32.11,Zero,No, Region_2,2055.3249,1
+51,Male,32.3,One,No,Region_1,9964.06,1
+18,Female,27.28,Three,Yes,Region_3,18223.4512,0
+35,Male,17.86,One,No, Region_2,5116.5004,0
+59,Female,34.8,Two,No,Region_4,36910.60803,0
+36,Male,33.4,Two,Yes,Region_4,38415.474,1
+37,Female,25.555,One,Yes,Region_1,20296.86345,1
+59,Male,37.1,One,No,Region_4,12347.172,1
+36,Male,30.875,One,No, Region_2,5373.36425,0
+39,Male,34.1,Two,No,Region_3,23563.01618,0
+18,Male,21.47,Zero,No,Region_1,1702.4553,0
+52,Female,33.3,Two,No,Region_4,10806.839,0
+27,Female,31.255,One,No, Region_2,3956.07145,1
+18,Male,39.14,Zero,No,Region_1,12890.05765,1
+40,Male,25.08,Zero,No,Region_3,5415.6612,0
+29,Male,37.29,Two,No,Region_3,4058.1161,0
+46,Female,34.6,One,Yes,Region_4,41661.602,1
+38,Female,30.21,Three,No, Region_2,7537.1639,0
+30,Female,21.945,One,No,Region_1,4718.20355,0
+40,Male,24.97,Two,No,Region_3,6593.5083,0
+50,Male,25.3,Zero,No,Region_3,8442.667,0
+20,Female,24.42,Zero,Yes,Region_3,26125.67477,1
+41,Male,23.94,One,No,Region_1,6858.4796,0
+33,Female,39.82,One,No,Region_3,4795.6568,0
+38,Male,16.815,Two,No,Region_1,6640.54485,1
+42,Male,37.18,Two,No,Region_3,7162.0122,1
+56,Male,34.43,Zero,No,Region_3,10594.2257,1
+58,Male,30.305,Zero,No,Region_1,11938.25595,1
+52,Male,34.485,Three,Yes, Region_2,60021.39897,1
+20,Female,21.8,Zero,Yes,Region_4,20167.33603,1
+54,Female,24.605,Three,No, Region_2,12479.70895,0
+58,Male,23.3,Zero,No,Region_4,11345.519,0
+45,Female,27.83,Two,No,Region_3,8515.7587,1
+26,Male,31.065,Zero,No, Region_2,2699.56835,1
+63,Female,21.66,Zero,No,Region_1,14449.8544,0
+58,Female,28.215,Zero,No, Region_2,12224.35085,1
+37,Male,22.705,Three,No,Region_1,6985.50695,0
+25,Female,42.13,One,No,Region_3,3238.4357,1
+52,Male,41.8,Two,Yes,Region_3,47269.854,1
+64,Male,36.96,Two,Yes,Region_3,49577.6624,1
+22,Female,21.28,Three,No, Region_2,4296.2712,0
+28,Female,33.11,Zero,No,Region_3,3171.6149,1
+18,Male,33.33,Zero,No,Region_3,1135.9407,1
+28,Male,24.3,Five,No,Region_4,5615.369,0
+45,Female,25.7,Three,No,Region_4,9101.798,1
+33,Male,29.4,Four,No,Region_4,6059.173,0
+18,Female,39.82,Zero,No,Region_3,1633.9618,1
+32,Male,33.63,One,Yes,Region_1,37607.5277,1
+24,Male,29.83,Zero,Yes,Region_1,18648.4217,1
+19,Male,19.8,Zero,No,Region_4,1241.565,0
+20,Male,27.3,Zero,Yes,Region_4,16232.847,1
+40,Female,29.3,Four,No,Region_4,15828.82173,0
+34,Female,27.72,Zero,No,Region_3,4415.1588,1
+42,Female,37.9,Zero,No,Region_4,6474.013,1
+51,Female,36.385,Three,No, Region_2,11436.73815,0
+54,Female,27.645,One,No, Region_2,11305.93455,0
+55,Male,37.715,Three,No, Region_2,30063.58055,0
+52,Female,23.18,Zero,No,Region_1,10197.7722,0
+32,Female,20.52,Zero,No,Region_1,4544.2348,0
+28,Male,37.1,One,No,Region_4,3277.161,0
+41,Female,28.05,One,No,Region_3,6770.1925,0
+43,Female,29.9,One,No,Region_4,7337.748,0
+49,Female,33.345,Two,No,Region_1,10370.91255,0
+64,Male,23.76,Zero,Yes,Region_3,26926.5144,1
+55,Female,30.5,Zero,No,Region_4,10704.47,1
+24,Male,31.065,Zero,Yes,Region_1,34254.05335,1
+20,Female,33.3,Zero,No,Region_4,1880.487,1
+45,Male,27.5,Three,No,Region_4,8615.3,1
+26,Male,33.915,One,No, Region_2,3292.52985,1
+25,Female,34.485,Zero,No, Region_2,3021.80915,1
+43,Male,25.52,Five,No,Region_3,14478.33015,1
+35,Male,27.61,One,No,Region_3,4747.0529,0
+26,Male,27.06,Zero,Yes,Region_3,17043.3414,1
+57,Male,23.7,Zero,No,Region_4,10959.33,0
+22,Female,30.4,Zero,No,Region_1,2741.948,1
+32,Female,29.735,Zero,No, Region_2,4357.04365,1
+39,Male,29.925,One,Yes,Region_1,22462.04375,1
+25,Female,26.79,Two,No, Region_2,4189.1131,0
+48,Female,33.33,Zero,No,Region_3,8283.6807,1
+47,Female,27.645,Two,Yes, Region_2,24535.69855,1
+18,Female,21.66,Zero,Yes,Region_1,14283.4594,1
+18,Male,30.03,One,No,Region_3,1720.3537,0
+61,Male,36.3,One,Yes,Region_4,47403.88,1
+47,Female,24.32,Zero,No,Region_1,8534.6718,0
+28,Female,17.29,Zero,No,Region_1,3732.6251,1
+36,Female,25.9,One,No,Region_4,5472.449,0
+20,Male,39.4,Two,Yes,Region_4,38344.566,1
+44,Male,34.32,One,No,Region_3,7147.4728,1
+38,Female,19.95,Two,No,Region_1,7133.9025,0
+19,Male,34.9,Zero,Yes,Region_4,34828.654,1
+21,Male,23.21,Zero,No,Region_3,1515.3449,0
+46,Male,25.745,Three,No, Region_2,9301.89355,1
+58,Male,25.175,Zero,No,Region_1,11931.12525,0
+20,Male,22,One,No,Region_4,1964.78,0
+18,Male,26.125,Zero,No,Region_1,1708.92575,1
+28,Female,26.51,Two,No,Region_3,4340.4409,0
+33,Male,27.455,Two,No, Region_2,5261.46945,0
+19,Female,25.745,One,No, Region_2,2710.82855,0
+45,Male,30.36,Zero,Yes,Region_3,62592.87309,1
+62,Male,30.875,Three,Yes, Region_2,46718.16325,1
+25,Female,20.8,One,No,Region_4,3208.787,0
+43,Male,27.8,Zero,Yes,Region_4,37829.7242,1
+42,Male,24.605,Two,Yes,Region_1,21259.37795,1
+24,Female,27.72,Zero,No,Region_3,2464.6188,1
+29,Female,21.85,Zero,Yes,Region_1,16115.3045,1
+32,Male,28.12,Four,Yes, Region_2,21472.4788,0
+25,Female,30.2,Zero,Yes,Region_4,33900.653,1
+41,Male,32.2,Two,No,Region_4,6875.961,0
+42,Male,26.315,One,No, Region_2,6940.90985,0
+33,Female,26.695,Zero,No, Region_2,4571.41305,1
+34,Male,42.9,One,No,Region_4,4536.259,1
+19,Female,34.7,Two,Yes,Region_4,36397.576,1
+30,Female,23.655,Three,Yes, Region_2,18765.87545,0
+18,Male,28.31,One,No,Region_1,11272.33139,0
+19,Female,20.6,Zero,No,Region_4,1731.677,0
+18,Male,53.13,Zero,No,Region_3,1163.4627,1
+35,Male,39.71,Four,No,Region_1,19496.71917,0
+39,Female,26.315,Two,No, Region_2,7201.70085,0
+31,Male,31.065,Three,No, Region_2,5425.02335,0
+62,Male,26.695,Zero,Yes,Region_1,28101.33305,1
+62,Male,38.83,Zero,No,Region_3,12981.3457,1
+42,Female,40.37,Two,Yes,Region_3,43896.3763,1
+31,Male,25.935,One,No, Region_2,4239.89265,0
+61,Male,33.535,Zero,No,Region_1,13143.33665,1
+42,Female,32.87,Zero,No,Region_1,7050.0213,1
+51,Male,30.03,One,No,Region_3,9377.9047,1
+23,Female,24.225,Two,No,Region_1,22395.74424,0
+52,Male,38.6,Two,No,Region_4,10325.206,1
+57,Female,25.74,Two,No,Region_3,12629.1656,1
+23,Female,33.4,Zero,No,Region_4,10795.93733,1
+52,Female,44.7,Three,No,Region_4,11411.685,0
+50,Male,30.97,Three,No, Region_2,10600.5483,0
+18,Female,31.92,Zero,No,Region_1,2205.9808,1
+18,Female,36.85,Zero,No,Region_3,1629.8335,1
+21,Female,25.8,Zero,No,Region_4,2007.945,0
+61,Female,29.07,Zero,Yes, Region_2,29141.3603,1
